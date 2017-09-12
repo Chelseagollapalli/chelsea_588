@@ -7,8 +7,9 @@ public class Main {
 		//compilation problems before to submit
 		scanner sc=new scanner(System.in);
 		students s=new students();
-		s.getid();
+		s.getId();
 		s.getFullname();
+		s.getBirthDate();
 	}
 
 }
