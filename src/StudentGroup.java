@@ -49,11 +49,13 @@ public class StudentGroup implements StudentArrayOperation {
 	@Override
 	public void addFirst(Student student) {
 		// Add your implementation here
+		this.addFirst(student);
 	}
 
 	@Override
 	public void addLast(Student student) {
 		// Add your implementation here
+		this.addLast(student);
 	}
 
 	@Override

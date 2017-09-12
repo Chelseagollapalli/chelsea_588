@@ -5,6 +5,7 @@ public class Main {
 		//You may test that your code works find here
 		//Please check that your code works and has no 
 		//compilation problems before to submit
+		scanner sc=new scanner(System.in);
 		students s=new students();
 		s.getid();
 		s.getFullname();
